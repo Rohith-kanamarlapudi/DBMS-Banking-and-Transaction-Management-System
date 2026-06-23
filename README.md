@@ -13,7 +13,6 @@
 
 </div>
 
----
 
 ## 📌 Overview
 
@@ -228,7 +227,7 @@ Deploy the `dist/` folder to [Vercel](https://vercel.com), [Netlify](https://net
 Use a managed SQL service like [PlanetScale](https://planetscale.com), [Supabase](https://supabase.com), or AWS RDS.  
 Update `DB_*` env vars accordingly.
 
----
+🗂️ Project Structure
 
 ## 🤝 Contributing
 
@@ -248,13 +247,8 @@ git push origin feat/your-feature-name
 
 Please follow the existing code style and keep commits clean.
 
----
 
-## 📄 License
 
-This project is licensed under the **MIT License** — see the [LICENSE](LICENSE) file for details.
-
----
 
 <div align="center">
 
